@@ -69,6 +69,6 @@ Include appropriate commit messages in your files.
 ```
 
 ## Code Comments  
-To receive all points, your code must:
+```To receive all points, your code must:
 Be well commented with concise, relevant notes that other developers can understand. 
 ```
